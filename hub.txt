@@ -2,4 +2,4 @@ hub ATAC-seq_signals
 shortLabel ATAC-seq_signals
 longLabel ATAC-seq_signals
 genomesFile genomes.txt
-email jzhu39@mgh.harvard.edu 
+email  
